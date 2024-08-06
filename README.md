@@ -1,4 +1,4 @@
-When using this dataset, please cite the following paper.
+"When using this dataset, please cite the following paper."
 
 @inproceedings{huang2024optimizing,
   title={Optimizing Numerical Estimation and Operational Efficiency in the Legal Domain through Large Language Models},
